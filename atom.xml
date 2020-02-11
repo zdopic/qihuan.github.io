@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zdopic.github.io/qihuan.github.io/</id>
     <title>QIHUAN</title>
-    <updated>2020-02-03T13:17:43.026Z</updated>
+    <updated>2020-02-11T01:53:39.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zdopic.github.io/qihuan.github.io/"/>
     <link rel="self" href="https://zdopic.github.io/qihuan.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://zdopic.github.io/qihuan.github.io/images/avatar.png</logo>
     <icon>https://zdopic.github.io/qihuan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, QIHUAN</rights>
+    <entry>
+        <title type="html"><![CDATA[期待疫情早日结束]]></title>
+        <id>https://zdopic.github.io/qihuan.github.io/post/qi-dai-yi-qing-zao-ri-jie-shu</id>
+        <link href="https://zdopic.github.io/qihuan.github.io/post/qi-dai-yi-qing-zao-ri-jie-shu">
+        </link>
+        <updated>2020-02-11T01:47:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近新增病例持续下降，希望2月底能迎来全国解放，这样我们在三月就能愉快的拍摄了...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>最近新增病例持续下降，希望2月底能迎来全国解放，这样我们在三月就能愉快的拍摄了...</p>
+<!-- more -->
+<p><img src="https://zdopic.github.io/qihuan.github.io//post-images/1581385818548.jpg" alt="" loading="lazy"><br>
+<img src="https://zdopic.github.io/qihuan.github.io//post-images/1581385880815.jpg" alt="" loading="lazy"><br>
+<img src="https://zdopic.github.io/qihuan.github.io//post-images/1581385896535.jpg" alt="" loading="lazy"><br>
+<img src="https://zdopic.github.io/qihuan.github.io//post-images/1581385923360.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无聊到上天台]]></title>
         <id>https://zdopic.github.io/qihuan.github.io/post/wu-liao-dao-shang-tian-tai</id>
